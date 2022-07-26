@@ -7,7 +7,7 @@ from utils.cores import Cores
 criar_conexao()
 
 while True:
-  print("1 - Cadastrar uma reserva")
+  print("1 - Cadastrar reserva")
   print("2 - Entrada do cliente (Check in)")
   print("3 - Saída do cliente (Check out)")
   print("4 - Alterar reserva")
