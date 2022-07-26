@@ -1,3 +1,3 @@
 # projeto-reserva
 
-Aplicação feita em python para a realização cadastro de reservas.
+Aplicação feita em python para a realização de cadastro de reservas.
